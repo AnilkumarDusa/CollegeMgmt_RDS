@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'anildwebapp.azurewebsites.net',
+	'hostname' => 'anilazurerg.mysql.database.azure.com',
 	'username' => 'anilazurerg',
 	'password' => 'Testing@123',
 	'database' => 'college_mgmt',
